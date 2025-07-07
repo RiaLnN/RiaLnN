@@ -41,4 +41,10 @@
 
 ---
 
+### 🐍 Snake GitHub Activity
+
+![snake gif](https://raw.githubusercontent.com/RiaLnN/RiaLnN/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">Built with ❤️ by RiaLnN</p>
