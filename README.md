@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RiaLnN&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLnN&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📌 Notable Projects
@@ -38,8 +34,10 @@
 
 ---
 
-### 🧠 Quote of the Moment
-> *“Focus is more valuable than intelligence.”*
+### 🤝 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/rialnns)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/RiaLnN)
 
 ---
 
