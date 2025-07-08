@@ -29,7 +29,7 @@
 
 ### 📌 Notable Projects
 
-- 🔔 [Crypto Price Alert Bot](https://github.com/RiaLnN/crypto-alert) – Telegram bot to track cryptocurrency prices
+- 🔔 [Crypto Price Alert Bot](https://github.com/RiaLnN/Crypto-Price-Alert-Bot) – Telegram bot to track cryptocurrency prices
 - 📓 [Remote System Monitor Bot](https://github.com/RiaLnN/Remote-System-Monitor-Bot) – Control PC remotely via Telegram
 
 ---
