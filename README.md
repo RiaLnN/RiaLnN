@@ -23,7 +23,7 @@
 - Multi-language support: English, Russian, Ukrainian  
 - Gamified notifications, daily stats, and interactive calendar  
 - Deployed via Docker on Azure with a secure Cloudflare tunnel  
-- [Repository link](#)  
+- [Repository link](https://github.com/RiaLnN/pressure-note.git)  
 
 This is my most ambitious project. I built it from scratch and deployed it.
 ---
