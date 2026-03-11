@@ -6,32 +6,56 @@
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠 Tech Stack
 
-- Languages: Python (FastAPI, aiogram), JavaScript (Vanilla JS), SQL (PostgreSQL, SQLite)  
-- Backend: FastAPI, REST APIs, microservices, Alembic migrations  
-- Frontend: Vanilla JS, HTML, CSS, responsive UI/UX  
-- Databases: PostgreSQL, SQLite  
-- Tools & DevOps: Docker, Docker Compose, Git, CI/CD, Azure, Cloudflare, VS Code  
-- Additional: Telegram bots, localization, gamification, data analytics  
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-ff6f61?style=flat)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+### Additional
+- Telegram bots (aiogram)  
+- Localization / multi-language support  
+- Gamification / user engagement design  
+- Data visualization and analytics
 
 ## 🌟 Projects
 
-### 1. Health & Blood Pressure Tracking App  
-- Fully working web app + Telegram bot  
-- REST API connecting frontend and backend  
-- Multi-language support: English, Russian, Ukrainian  
-- Gamified notifications, daily stats, and interactive calendar  
-- Deployed via Docker on Azure with a secure Cloudflare tunnel  
+### Health & Blood Pressure Tracker  
+![Web](https://img.shields.io/badge/-Web-App-4CAF50?style=flat)
+![Telegram Bot](https://img.shields.io/badge/-Telegram-B2B2B2?style=flat)
+- Fully functional web app + Telegram bot
+- REST API connecting frontend & backend
+- Multi-language: English, Russian, Ukrainian
+- Gamified notifications & interactive calendar
+- Deployed via Docker on Azure + Cloudflare
 - [Repository link](https://github.com/RiaLnN/pressure-note.git)
 - Bot link: t.me/pressure_controlbot
 
-This is my most ambitious project. I built it from scratch and deployed it.
----
+### Automation & Utility Scripts  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat)
+- Scripts for workflow automation, API integration, data parsing
+- Practical solutions for personal and small business use
 
-### 2. Utilities & Automation Scripts  
-- Python scripts for data parsing, task automation, and workflow optimization  
-- Integrations with APIs and custom tools for personal or small business use  
 ---
 ### 📈 GitHub Stats
 
@@ -49,4 +73,4 @@ This is my most ambitious project. I built it from scratch and deployed it.
 
 ## 💡 About Me  
 
-I thrive on bringing ideas to life through code. I constantly learn new technologies and enjoy building intuitive, practical solutions that people actually use.
+I thrive on *bringing ideas to life through code*. I constantly learn new technologies and enjoy building *intuitive, practical solutions* that people actually use.
