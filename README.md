@@ -24,7 +24,7 @@
 - Gamified notifications, daily stats, and interactive calendar  
 - Deployed via Docker on Azure with a secure Cloudflare tunnel  
 - [Repository link](https://github.com/RiaLnN/pressure-note.git)
-- [Bot link](t.me/pressure_controlbot)
+- Bot link: t.me/pressure_controlbot
 
 This is my most ambitious project. I built it from scratch and deployed it.
 ---
