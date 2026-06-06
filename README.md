@@ -4,7 +4,6 @@
 
 I build async backend services with clean architecture and real production concerns in mind —
 concurrency, caching, containerized deployments.
-Currently studying CS at TUKE (Košice, Slovakia) and looking for my first professional role.
 
 ---
 
@@ -26,18 +25,23 @@ Currently studying CS at TUKE (Košice, Slovakia) and looking for my first profe
 
 ## Projects
 
-### [booking_service](https://github.com/RiaLnN/booking_service) — Booking REST API
-> FastAPI · PostgreSQL · SQLAlchemy · Docker
+### [booking_service](https://github.com/RiaLnN/booking_service) — Fullstack Booking App
+> FastAPI · PostgreSQL · Redis · TypeScript · Docker Compose
 
-Async REST API with layered architecture (Routers → Services → Models).
-JWT authentication, Alembic migrations, Docker Compose environment.
+Fullstack application for booking meeting rooms and desks.
+Async REST API with layered architecture (Routers → Services → Models), JWT authentication, Redis caching, Alembic migrations.
+Race conditions handled via pessimistic row-level locking (`SELECT ... FOR UPDATE`).
+TypeScript SPA frontend with admin panel, slot management and booking flow.
+Full environment in Docker Compose: frontend (Nginx) + backend + PostgreSQL + Redis.
 
-### [pressure-note](https://github.com/RiaLnN/pressure-note) — Health Tracking App + Telegram Bot
-> FastAPI · PostgreSQL · Docker · Azure · Cloudflare Tunnel
+---
 
-Full-stack web app with a Telegram bot interface. REST API connecting frontend and backend.
-Multi-language support (EN / RU / UA), gamified notifications, daily stats, interactive calendar.
-Deployed via Docker Compose on Azure with a secure Cloudflare tunnel.
+### [telegramBot_whisper](https://github.com/RiaLnN/telegramBot_whisper) — Voice Transcription Telegram Bot
+> Python · aiogram · Groq Whisper · LLaMA · Docker · Azure
+
+Telegram bot that transcribes voice messages in seconds using Groq's Whisper API.
+Reply to any transcription with a summary command — bot returns a concise summary via a second LLM call.
+Works in any language. Deployed on Azure via Docker.
 
 ---
 
