@@ -54,13 +54,6 @@ Direct pixel-buffer rendering, O(N²) force calculation, manual memory managemen
 
 ---
 
-### [Remote-System-Monitor-Bot](https://github.com/RiaLnN/Remote-System-Monitor-Bot)
-> Python · aiogram · Telegram API
-
-Telegram bot for remote server monitoring. Real-time system metrics, alert notifications.
-
----
-
 ## Contact
 
 [Telegram](https://t.me/rialnns) · [max07070799@gmail.com](mailto:max07070799@gmail.com) · Open to remote
