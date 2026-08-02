@@ -70,12 +70,6 @@ Telegram bot for voice transcription and AI-powered text processing.
 
 ---
 
-### 📈 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=RiaLnN&show_icons=true&theme=tokyonight)](https://github.com/RiaLnN)
-
----
-
 ## 🔗 Contact & Freelance
 
 - Telegram: [t.me/rialnns](https://t.me/rialnns)
