@@ -60,7 +60,7 @@ Telegram bot for voice transcription and AI-powered text processing.
 - Message summarization and AI reply generation via a LLaMA-compatible API
 - Async task processing with Celery + Redis
 - Per-chat settings (transcription mode, AI tone preset) stored in PostgreSQL
-- ⚠️ Currently inactive / intermittent — hosted on an Azure student subscription that can't reliably handle the load
+- Deployed on Heroku
 - 🔗 [Repository](https://github.com/RiaLnN/telegramBot_whisper)
 
 ### 5. Utilities & Automation Scripts
